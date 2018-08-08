@@ -1,5 +1,0 @@
-conda install -c anaconda opencv
-conda install -c conda-forge tqdm
-conda install -c conda-forge tensorflow
-conda install -c anaconda numpy
-conda install -c anaconda scikit-learn
